@@ -1,0 +1,39 @@
+.novedades{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nov-card{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nov-card img{
+    justify-content: center;
+    max-width: 350px;
+    border-radius: 50px;
+}
+
+@media (max-width:800px) {
+    .novedades{
+        display: block;
+    }
+    .nov-card{
+        display: flex;
+        padding-left: 0px;
+        transform: scale(0.7);
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nov-card img{
+        border-radius: 50px;
+        max-width: 475px;
+    }
+}
+
+@media (max-width:1000) {
+    
+}

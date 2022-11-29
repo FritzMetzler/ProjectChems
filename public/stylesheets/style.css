@@ -1,0 +1,21 @@
+@import url(header.css);
+@import url(novedades.css);
+@import url(appstore.css);
+
+@font-face {
+  font-family: 'Showcard Gothic';
+  src: url('fonts/SHOWG.TTF');
+
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat.ttf');
+}
+
+*{
+  padding: 0;
+  margin: 0;  
+  box-sizing: border-box;
+}
+
+body{
+  display: block;
+}
