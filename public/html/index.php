@@ -26,8 +26,8 @@
       </p>
       
       <div class="app-qr">
-        <span><a href="/#"><i class="fa-brands fa-app-store"  ></i> AppStore</a></span>
-        <span><a href="/#"><i class="fa-brands fa-google-play"></i> Play Store</a></span>
+        <span><a href="#"><i class="fa-brands fa-app-store"  ></i> AppStore</a></span>
+        <span><a href="#"><i class="fa-brands fa-google-play"></i> Play Store</a></span>
       </div>
     
     </div>

@@ -32,7 +32,7 @@
         <div class="nav-content">
             <span><a href="index.php">Biemnvenido</a></span>
             <span><a href="promociones.php">Promomciones</a></span>
-            <span><a href="building.html">Pamquetes</a></span>
+            <span><a href="paquetes.php">Pamquetes</a></span>
             <span><a href="building.html">Pa llemvar</a></span>
         </div>      
     </nav>
