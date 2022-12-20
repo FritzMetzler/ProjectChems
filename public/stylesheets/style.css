@@ -285,11 +285,14 @@ padding: 15px;
   width: 100%;
   height: 100vh;
   display: flex;
+  
 }
 
 .prom-list{
   width: 40%;
   display: block;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .prom-list a{
@@ -328,8 +331,9 @@ padding: 15px;
 }
 
 .prom-visual-container{
-  margin: 10vh auto;
+  margin:auto;
   text-align: center;
+  background-color: aqua;
 }
 
 .big-image{
@@ -338,8 +342,32 @@ padding: 15px;
 
 .prom-visual-text-container{
   padding: 15px 20vh 0 20vh;
+  background-color: blueviolet;
+}
+/*? Servicios para llevar*/
+.delivery {
+  display: block;
+  background-color: blue;
+  text-align: center;
 }
 
-/**/
+.global-services{
+  background-color: aqua;
+}
+
+.global-services ul{
+  display:flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.global-services li{
+  padding: 5px 10px;
+}
+
+.delivery img{
+  width:100px;
+}
+/*! --------------- Paquetes ---------------*/
 
 /**/
